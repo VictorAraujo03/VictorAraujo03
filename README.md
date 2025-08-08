@@ -1,4 +1,4 @@
-# Hello World! Eu sou o Victor Araújo 👋
+# Hello, World! Eu sou o Victor Araújo 👋
 
 ## 🧑‍💻 Sobre mim
 Formado em Ciência da Computação 🎓  
