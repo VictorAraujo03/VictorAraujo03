@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Sobre mim
 Formado em Ciência da Computação 🎓  
-Desenvolvedor Web Jr. 💻📊
+Desenvolvedor Web Jr. 💻
 Foco em performance digital, desenvolvimento front-end e análise de dados.
 
 ---
