@@ -30,10 +30,6 @@ Desenvolvedor Web Jr. 💻
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAraujo03&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAraujo03&layout=compact&theme=tokyonight)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victoraraujo03/victoraraujo03/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victoraraujo03/victoraraujo03/output/pacman-contribution-graph.svg">
-
 ---
 
 ## 🚀 Tecnologias que uso no dia a dia
@@ -44,3 +40,11 @@ Desenvolvedor Web Jr. 💻
 - **Outros:** Git, GitHub, WordPress
 
 ---
+
+## 🛠 Linguagens e Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,ts,php,github,git,react,nodejs,mysql" />
+  </a>
+</p>
