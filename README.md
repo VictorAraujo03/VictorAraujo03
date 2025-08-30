@@ -30,7 +30,6 @@ Tenho 22 anos e sou apaixonado por tecnologia — tanto na área de desenvolvime
 
 ## 📊 GitHub Analytics
 ![victoraraujo03's Stats](https://github-readme-stats.vercel.app/api?username=victoraraujo03&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-![victoraraujo03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=victoraraujo03&theme=dracula&hide_border=false)
 ![victoraraujo03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoraraujo03&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 ---
