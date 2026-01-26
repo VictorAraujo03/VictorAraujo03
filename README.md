@@ -35,7 +35,7 @@ Tenho 22 anos e sou apaixonado por tecnologia — tanto na área de desenvolvime
 
 ## 🚀 Tecnologias que uso no dia a dia
 - **Front-end:** HTML, CSS, JavaScript  
-- **Back-end:** PHP, Java, Python  
+- **Back-end:** PHP, Python  
 - **Banco de dados:** MySQL, SQL Server  
 - **Ferramentas de dados:** Google Analytics, Tag Manager, Looker Studio, Power BI  
 - **Outros:** Git, GitHub, WordPress
