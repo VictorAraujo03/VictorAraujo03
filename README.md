@@ -16,7 +16,7 @@
 Bacharel em Ciência da Computação - Formado 🎓  
 💻 Desenvolvedor Web
 
-Tenho 22 anos e sou apaixonado por tecnologia, tanto na área de desenvolvimento quanto em análise de dados. Sou motivado e dedicado a aprender novas tecnologias constantemente para aprimorar minhas habilidades e crescer profissionalmente. Estou sempre atento às tendências do mercado para me manter atualizado e entregar o melhor resultado. 📌
+Tenho 23 anos e sou apaixonado por tecnologia, tanto na área de desenvolvimento quanto em análise de dados. Sou motivado e dedicado a aprender novas tecnologias constantemente para aprimorar minhas habilidades e crescer profissionalmente. Estou sempre atento às tendências do mercado para me manter atualizado e entregar o melhor resultado. 📌
 
 ---
 
