@@ -29,7 +29,7 @@ Tenho 23 anos e sou apaixonado por tecnologia, tanto na área de desenvolvimento
 ---
 
 ## 📊 GitHub Analytics
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victoraraujo03&show_icons=true&theme=transparent)
+![Victor GitHub stats](https://github-stats-extended.vercel.app/api?victoraraujo03=octocat&theme=radical)
 
 ---
 
